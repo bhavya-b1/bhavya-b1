@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**bhavya-b1/bhavya-b1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Bhavya Bhavsar
 
-Here are some ideas to get you started:
+🎓 Final-year Software Engineering student at De Montfort University  
+💻 Passionate about web development, databases, and building real-world solutions  
+🌱 Currently learning: advanced PHP, JavaScript, and full-stack best practices  
+🔍 Open to: Entry-level roles in Web Development, Software Engineering, or IT Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** PHP, JavaScript, Python, Java, C++, HTML, CSS, SQL  
+- **Tools & Frameworks:** MySQL, Git, Visual Studio, Android Studio, Eclipse  
+
+---
+
+## 📫 Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/bhavya-bhavsar-8654a92a4/)  
+- 📧 bhavyabhavin04@outlook.com
+
+---
+
+*Thanks for visiting! Feel free to explore my repos and connect with me.*
