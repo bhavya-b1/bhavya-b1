@@ -18,7 +18,7 @@
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/bhavya-bhavsar-8654a92a4/)  
+- [LinkedIn](www.linkedin.com/in/bhavyab1)  
 - 📧 bhavyabhavin04@outlook.com
 
 ---
