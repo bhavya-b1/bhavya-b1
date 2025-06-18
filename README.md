@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Bhavya Bhavsar
 
-🎓 Final-year Software Engineering student at De Montfort University  
+🎓 Recent Graduate from De Montfort University in software engineering
 💻 Passionate about web development, databases, and building real-world solutions  
 🌱 Currently learning: advanced PHP, JavaScript, and full-stack best practices  
 🔍 Open to: Entry-level roles in Web Development, Software Engineering, or IT Support
